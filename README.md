@@ -99,7 +99,7 @@ Voici la structure du dossier du plugin :
 - **220** matchs gérés depuis le *22 juillet 2026*
 - **36 000** pronostics soumis
 - **541** utilisateurs actifs
-- En production et maintenu activement depuis **28 mai 2026**
+- En production et maintenu activement depuis le **28 mai 2026**
 
 ## 📸 Captures d'écran
 
